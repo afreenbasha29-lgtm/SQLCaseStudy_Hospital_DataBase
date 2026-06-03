@@ -157,4 +157,3 @@ A cleaned version of selected tables was also created during the data-cleaning p
 ## Author
 Afreen S
 
-**Afreen S**
